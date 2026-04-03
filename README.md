@@ -2,7 +2,7 @@
 
 `kirei-filter` は、画像の内容を AI が見て、全体の「整え」方向を提案する試作アプリです。
 
-公開ページ: `https://masato-nasu.github.io/Kirei-Filter/`
+公開ページ: [https://masato-nasu.github.io/Kirei-Filter/](https://masato-nasu.github.io/Kirei-Filter/)
 
 ## PWAのインストール方法
 
