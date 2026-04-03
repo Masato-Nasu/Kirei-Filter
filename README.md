@@ -1,6 +1,6 @@
 # kirei-filter
 
-`kirei-filter` は、画像の内容を AI が見て、全体の「整え」方向を提案する試作アプリです。
+`kirei-filter` は、画像の内容を AI が見て、全体の画像補正をするアプリです。
 
 公開ページ: [https://masato-nasu.github.io/Kirei-Filter/](https://masato-nasu.github.io/Kirei-Filter/)
 
