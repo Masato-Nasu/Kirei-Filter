@@ -2,7 +2,7 @@
 
 `kirei-filter` は、画像の内容を AI が見て、全体の画像補正をするアプリです。
 
-公開ページ: [https://masato-nasu.github.io/Kirei-Filter/](https://masato-nasu.github.io/Kirei-Filter/)
+公開ページ: [https://ai-kirei-filter.pages.dev/](https://ai-kirei-filter.pages.dev/)
 
 ## PWAのインストール方法
 
